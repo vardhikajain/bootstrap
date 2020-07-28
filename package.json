@@ -1,0 +1,25 @@
+{
+  "name": "bootstrap-4",
+  "version": "1.0.0",
+  "description": "nothing just curious",
+  "main": "index.html",
+  "scripts": {
+     "dev":"lite-server",
+         "start": "npm run dev",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lite": "lite server"
+  }, 
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vardhikajain/bootstrap.git"
+  },
+  "author": "Vardhika Jain",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vardhikajain/bootstrap/issues"
+  },
+  "homepage": "https://github.com/vardhikajain/bootstrap#readme",
+  "devDependencies": {
+    "lite-server": "^2.5.4"
+  }
+}
